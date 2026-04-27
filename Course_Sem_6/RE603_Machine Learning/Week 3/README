@@ -1,8 +1,8 @@
-# Analisis Data Otomotif & Preprocessing (Week 3 Assignment)
+#Analisis Data Otomotif & Preprocessing (Week 3 Assignment)
 
 Proyek ini bertujuan untuk melakukan analisis mendalam terhadap dataset karakteristik kendaraan, mencakup visualisasi data, pembersihan data, hingga tahap persiapan data (preprocessing) untuk kebutuhan machine learning.
 
-## 📂 Konten Notebook
+📂 Konten Notebook
 Di dalam notebook ini, dilakukan beberapa langkah utama:
 1. Importing Libraries: Menggunakan pandas, numpy, seaborn, dan matplotlib.
 2. Exploratory Data Analysis (EDA):
@@ -12,12 +12,12 @@ Di dalam notebook ini, dilakukan beberapa langkah utama:
 4. Feature Scaling: Implementasi MinMaxScaler dari Scikit-Learn untuk menormalisasi rentang nilai fitur numerik.
 5. Data Splitting: Membagi data menjadi training set dan test set menggunakan train_test_split.
 
-## 🛠️ Prasyarat (Dependencies)
+🛠️ Prasyarat (Dependencies)
 Pastikan kamu telah menginstal library berikut sebelum menjalankan notebook:
   Bash
   pip install pandas numpy matplotlib seaborn scikit-learn
 
-## 🚀 Cara Menjalankan
+🚀 Cara Menjalankan
 1. Clone repositori ini.
 2. Buka file .ipynb menggunakan Jupyter Notebook, JupyterLab, atau VS Code.
 3. Jalankan sel secara berurutan.

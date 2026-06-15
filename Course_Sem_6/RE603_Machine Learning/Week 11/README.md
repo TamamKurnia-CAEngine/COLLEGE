@@ -31,10 +31,3 @@ Berikut adalah hasil performa dari masing-masing fungsi aktivasi setelah dilakuk
 3. **ReLU** secara tidak terduga menghasilkan performa terendah (**91,11%**). Hal ini menunjukkan bahwa pada arsitektur dangkal dan dataset sederhana, keunggulan ReLU dalam mencegah *vanishing gradient* tidak terlalu berdampak signifikan dibandingkan fungsi aktivasi berbasis *smooth-curve* seperti Tanh.
 
 ---
-
-## 🚀 Cara Menjalankan Notebook
-
-1. **Clone Repositori Ini:**
-   ```bash
-   git clone [https://github.com/username-anda/nama-repositori.git](https://github.com/username-anda/nama-repositori.git)
-   cd nama-repositori
